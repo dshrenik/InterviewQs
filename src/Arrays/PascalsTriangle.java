@@ -1,5 +1,10 @@
 package Arrays;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class PascalsTriangle {
 
 	public static void printPascalsTriangle(int n) {

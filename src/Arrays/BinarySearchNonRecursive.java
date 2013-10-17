@@ -1,4 +1,10 @@
 package Arrays;
+
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class BinarySearchNonRecursive {
 
 	public static int find(int[] a, int key) {

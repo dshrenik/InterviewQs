@@ -1,5 +1,10 @@
 package SortingAndSearching;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class MatrixWithRowAndColumnSorted {
 
 	public static boolean find(int[][] a, int key) {

@@ -3,6 +3,11 @@ package Misc;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class FirstNonRepeated {
 
 	public static Character getFirstNonRepeated(String str) {

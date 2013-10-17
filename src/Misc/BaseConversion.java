@@ -1,5 +1,10 @@
 package Misc;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class BaseConversion {
 
 	// For x <= 9

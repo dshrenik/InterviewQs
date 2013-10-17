@@ -2,6 +2,11 @@ package Misc;
 
 import java.util.Stack;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class LinkedList {
 	
 	public class Link {

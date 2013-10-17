@@ -3,6 +3,11 @@ package Misc;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class ArraysAndStrings {
 
 	public static boolean hasUniqueCharacters(String str) {

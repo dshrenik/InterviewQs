@@ -1,5 +1,10 @@
 package Arrays;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class BinarySearchRecursive {
 
 	public static int find(int[] a, int key, int low, int high) {

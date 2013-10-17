@@ -1,5 +1,10 @@
 package Strings;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class Reverse {
 	
 	public static String getReverseOfString(String str) {

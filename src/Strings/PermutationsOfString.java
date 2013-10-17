@@ -1,5 +1,10 @@
 package Strings;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class PermutationsOfString {
 	
 	public static void printPermutations(String str) {

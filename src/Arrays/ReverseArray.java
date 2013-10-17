@@ -1,5 +1,10 @@
 package Arrays;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class ReverseArray {
 
 	public static void reverse(int[] a) {

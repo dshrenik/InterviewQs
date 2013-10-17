@@ -1,5 +1,10 @@
 package Strings;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class CombinationsOfString {
 
 	public static void getCombinations(String str) {

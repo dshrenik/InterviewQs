@@ -6,6 +6,11 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class Intersection {
 
 	public static void printIntersection(int[] a, int[] b) {

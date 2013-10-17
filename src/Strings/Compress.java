@@ -1,5 +1,10 @@
 package Strings;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class Compress {
 	
 	public static String getCompressed(String str) {

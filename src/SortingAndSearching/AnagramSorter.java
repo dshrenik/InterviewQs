@@ -3,6 +3,11 @@ package SortingAndSearching;
 import java.util.Arrays;
 import java.util.Comparator;
 
+/**
+ * 
+ * @author shrenikdevasani
+ *
+ */
 public class AnagramSorter implements Comparator<String>{
 	
 	public String sort(String str) {
